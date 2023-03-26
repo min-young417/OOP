@@ -38,7 +38,7 @@ public Node(string data){
      next = null;
 }
 ```
-###### Node는 data와 다음 를 가르키는 next로 이루어짐.
+###### Node는 data와 다음 노드를 가르키는 next로 이루어짐.
 
 + push
 ``` C#
@@ -70,3 +70,5 @@ for (Node temp = head; temp != null; temp = temp.next){
 1. banana apple kiwi orange 순으로 stack에 push.
 2. 2번 pop을 하여 orange kiwi를 밖으로 빼낸다.
 3. stack을 print하여 잘 실행되었는지 확인.
+
+![OOP_HW1(1)](https://user-images.githubusercontent.com/122364547/227774698-9ed4f9bd-4641-40b1-a26a-da3169fa26cd.png)
