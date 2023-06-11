@@ -35,6 +35,11 @@
 
 ![기존_판매현황](https://github.com/min-young417/store-management-system_OOP-Project/assets/122364547/9ae1d712-4271-4b59-86b9-ac67f5aa4229)
 
+##### 기존 프로젝트 출처
+https://github.com/partha7278/GeneralStore#deshboard
+
+
+
 업그레이드한 프로젝트 기능
 -----
 ### 기능
