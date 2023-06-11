@@ -86,7 +86,7 @@ https://github.com/partha7278/GeneralStore#deshboard
 ```
   + 영수증
 
-![영수증](https://github.com/min-young417/store-management-system_OOP-Project/assets/122364547/1e7baa84-1957-4456-80ed-711386cda6a9)
+![영수증_수정](https://github.com/min-young417/store-management-system_OOP-Project/assets/122364547/65c4462b-7e06-4f9d-9a6d-489c6ef68a3d)
   + 전체 판매 기록 조회
 
 ![판매기록전체보기](https://github.com/min-young417/store-management-system_OOP-Project/assets/122364547/e581b945-13a7-4ef1-bac8-d9a8ba49d0b3)
