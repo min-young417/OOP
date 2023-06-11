@@ -7,8 +7,8 @@ namespace MyStore
         string _server = "localhost";
         int _port = 3306;
         string _database = "db_storemanager";
-        string _id = "uid"; 
-        string _pw = "pwd"; 
+        string _id = "root"; 
+        string _pw = "nonamed2971!"; 
         string _connectionAddress = "";
 
         MySqlConnection mysql;

@@ -50,7 +50,7 @@ namespace MyStore
                     }
                     b++;
                  }
-                 Bill bi = new Bill(date, BName.Text, (Convert.ToInt32(label7.Text)));
+                 Bill bi = new Bill(b, date, BName.Text, (Convert.ToInt32(label7.Text)));
                  bi.Show();
                  BName.Text = "";
                  BMobile.Text = "";

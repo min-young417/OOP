@@ -7,12 +7,12 @@ namespace MyStore
     {
         Code.Query_DB qd = new Code.Query_DB();
         int s;
-        public Bill(string date,String name,int total)
+        public Bill(int b, string date,String name,int total)
         {
             InitializeComponent();
             label4.Text = date;
             label3.Text = name;
-            label7.Text = total+"";
+            label7.Text = b+"";
 
             qd.GetSellProduct(dataGridView3,date);
         }
