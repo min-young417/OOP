@@ -93,7 +93,7 @@ https://github.com/partha7278/GeneralStore#deshboard
 ```
 더욱 상세한 판매 내역을 한눈에 볼 수 있도록 수정
 ```
-  + 고객변 판매 기록 조회
+  + 고객별 판매 기록 조회
 
 ![고객별판매기록](https://github.com/min-young417/store-management-system_OOP-Project/assets/122364547/0fa81c11-9a17-4d17-aa9c-680f7ebe9057)
 ```
