@@ -1,0 +1,16 @@
+C:\CookC#\ExceptionEX\bin\Debug\ExceptionEX.exe.config
+C:\CookC#\ExceptionEX\bin\Debug\ExceptionEX.exe
+C:\CookC#\ExceptionEX\bin\Debug\ExceptionEX.pdb
+C:\CookC#\ExceptionEX\obj\Debug\ExceptionEX.csproj.AssemblyReference.cache
+C:\CookC#\ExceptionEX\obj\Debug\ExceptionEX.csproj.SuggestedBindingRedirects.cache
+C:\CookC#\ExceptionEX\obj\Debug\ExceptionEX.csproj.CoreCompileInputs.cache
+C:\CookC#\ExceptionEX\obj\Debug\ExceptionEX.exe
+C:\CookC#\ExceptionEX\obj\Debug\ExceptionEX.pdb
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\bin\Debug\ExceptionEX.exe.config
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\bin\Debug\ExceptionEX.exe
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\bin\Debug\ExceptionEX.pdb
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\obj\Debug\ExceptionEX.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\obj\Debug\ExceptionEX.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\obj\Debug\ExceptionEX.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\obj\Debug\ExceptionEX.exe
+C:\Users\pc\OneDrive\바탕 화면\ExceptionEX\obj\Debug\ExceptionEX.pdb
